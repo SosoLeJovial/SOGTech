@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tebourbi SOfien
+- 👋 Hi, I’m Tebourbi Sofien
 - 👀 I’m interested in improve my skills
 - 🌱 I’m currently learning CSS/JAVA/SQL
 - 📫 How to reach me contactpro.sgtech@gmail.com
